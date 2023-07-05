@@ -1,4 +1,4 @@
-# FederatedLearning
+# Federated Learning
 
 
 In the lab, we will explore the application of **federated learning** for binary classification on a **diabetes dataset**. Our goal is to build a model that can predict whether or not a patient has diabetes based on various features such as age, BMI, and blood pressure.
