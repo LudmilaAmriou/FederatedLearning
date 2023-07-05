@@ -5,6 +5,4 @@ In the lab, we will explore the application of **federated learning** for binary
 
 We use TensorFlow Federated (TFF) to implement our federated learning approach and evaluate the performance of our model using classification metrics such as accuracy, precision, and recall.
 
-Link to the used dataset: 
-https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
-
+You can find the used dataset in ***the diabetes.csv*** file 
